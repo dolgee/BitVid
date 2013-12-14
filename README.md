@@ -24,7 +24,7 @@ Setup the Database
 Setup the Search
 ================
 
-Download elasticsearch(elasticsearch.com) and run it with its default configuration:
+Download elasticsearch (elasticsearch.com) and run it with its default configuration:
 ```
 > wget download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.7.tar.gz
 > tar -xvf elasticsearch-0.90.7.tar.gz
