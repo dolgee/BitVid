@@ -39,5 +39,5 @@ python manage.py rebuild_index
 
 And you're ready to go:
 ```
-/BitVid/BitVid > python manage.py runserver
+> python manage.py runserver
 ```
